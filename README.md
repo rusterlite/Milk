@@ -1,0 +1,2 @@
+Milk's main purpose is to serve as a target for Moonshine to attack. Milk and Moonshine are clear polar opporsites, which when mixed, the fat in milk reacts violently to the alcohol in moonshine. I don't know how this is going to work. I will update this as and when. This is currently written in Python, but may change to JS or C depending on how it's going
+This is currently written in Python, but may change to JS or C depending on how it's going
